@@ -1,0 +1,14 @@
+{
+  "variant": "1",
+  "lengthNameProject": 10,
+  "testName": "Test",
+  "testSessionId": 3,
+  "testEnv": "Environment",
+  "testBrowser": "Chrome",
+  "testAuthorId": 1,
+  "testStatus": 2,
+  "testFailed": "Failed",
+  "testMethod": "test method",
+  "testTimeStamp": 1706862746071,
+  "contentTypeScreenShot": "image/png"
+}
